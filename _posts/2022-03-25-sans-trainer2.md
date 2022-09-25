@@ -128,7 +128,7 @@ level11@trainer:~$ cat results.txt
 0982e2a869857644074d06b1a4fd1bea
 ```
 
-__## __Flag:__ ```0982e2a869857644074d06b1a4fd1bea```
+__Flag:__ ```0982e2a869857644074d06b1a4fd1bea```
 
 ## 0x0D Level
 10 (Linux)
