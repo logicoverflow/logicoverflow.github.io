@@ -20,9 +20,9 @@ _The two CTFs consist of the same questions, with the difference being the Veter
 ### Trainer
 
 <ul>
-<li>[Levels: 0x01 - 0x09](https://logicoverflow.tech/sans-trainer1/)</li>
-<li>[Levels: 0x0A - 0x12](https://logicoverflow.tech/sans-trainer2/)<li>
-<li>[Levels: 0x13 - 0x16](https://logicoverflow.tech/sans-trainer3/)</li>
+<li><a href="https://logicoverflow.tech/sans-trainer1/">Levels: 0x01 - 0x09</a></li>
+<li><a href="https://logicoverflow.tech/sans-trainer2/">Levels: 0x0A - 0x12</a><li>
+<li><a href="https://logicoverflow.tech/sans-trainer3/">Levels: 0x13 - 0x16</a></li>
 </ul>
 
 ### Beanie Babies
