@@ -2,9 +2,11 @@
 layout: single
 title: "SANS - New2Cyber CTF 2022"
 header:
-  overlay_image: sans-new2cyber-logo.png
+  overlay_image: cyber-newlocks.jpg
   caption: "[__OverTheWire__](http://overthewire.org/wargames/bandit)"
 ---
+
+<p align="center"><img src="/images/sans-new2cyber-logo.png"></p>
 
 # SANS - New2Cyber CTF 2022
 Thursday, March 23rd 14:15 EDT - Friday, March 24th 14:15 EDT
