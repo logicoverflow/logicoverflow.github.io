@@ -2,18 +2,20 @@
 layout: single
 title: "Trainer: Levels 0x01 - 0x09"
 header:
-  overlay_image: sans-new2cyber-logo.png
+  overlay_image: cyber-newlocks.jpg
   caption: "[__OverTheWire__](http://overthewire.org/wargames/bandit)"
 ---
 
-# 0x01 Level
-> 10 points (Linux)
+<p align="center"><img src="/images/sans-new2cyber-logo.png"></p>
 
-## Challenge
+## 0x01 Level
+__10 points (Linux)__
+
+### Challenge
 
 SSH to the linux trainer:
 
-trainer.threatsims.com
+__trainer.threatsims.com__
 
 Note: This is not a web based link, it's an SSH host and you can connect to it via SSH protocol with tool such as PuTTY (google), or in linux use the ssh command.
 
@@ -29,7 +31,7 @@ Note: Not the standard flag format
 
 author: [@nopresearcher](https://twitter.com/NopResearcher)
 
-## Solution
+### Solution
 The solution provided is done in linux with the ssh command. If you're using Windows, you'll want to use PuTTY or consider learning more about Windows Subsystem for Linux.
 
 ```console
@@ -78,4 +80,36 @@ level0@trainer:~$ cat level1_password
 4202c26842398c1d0772ed9eed195113
 ```
 
-__Flag:__4202c26842398c1d0772ed9eed195113
+__Flag:__ ```4202c26842398c1d0772ed9eed195113```
+
+## 0x02 Level
+__10 (Linux)__
+
+### Challenge
+
+The password to level
+
+Note: Not the standard flag format
+
+author: [@nopresearcher](https://twitter.com/NopResearcher)
+
+### Solution
+
+```console
+Welcome to Level 1
+
+The password for the next level is in this user's home directory, but you may have to dig a bit.
+
+level1@trainer:~$ ls
+helpme  some_directory  welcome_message
+
+level1@trainer:~$ cd some_directory/
+
+level1@trainer:~/some_directory$ ls
+level2_password  level2_password.save  maybe
+
+level1@trainer:~/some_directory$ cat level2_password
+943430e07fd566bc96aa05fca3c96e48
+```
+
+__Flag:__ ```943430e07fd566bc96aa05fca3c96e48```
