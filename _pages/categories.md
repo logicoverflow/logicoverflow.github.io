@@ -9,7 +9,7 @@ permalink: /categories.html
 
 <h2>Capture The Flag (CTF)</h2>
 <ul>
-<li><a href="https://logicoverflow.tech/sans-new2cyber/">Sans New2Cyber</a></li>
+<li><a href="https://logicoverflow.tech/2022-sans-new2cyber.html">Sans New2Cyber</a></li>
 <li>DEFCON Red Team Village 2020</li>
 </ul>
 
