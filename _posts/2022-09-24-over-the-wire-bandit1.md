@@ -41,7 +41,7 @@ We've obtained the password for bandit1. It would seem that the server does not 
 
 In order to prevent me having to constantly type out the entire string, I wrote the following script, where all I have to do is enter the level number.
 
-```code
+```shell
 #!/bin/sh
 
 if [ -z "$1" ]; then

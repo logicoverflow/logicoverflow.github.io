@@ -9,7 +9,7 @@ permalink: /categories.html
 
 <h2>Capture The Flag (CTF)</h2>
 <ul>
-<li>Sans New2Cyber</li>
+<li><a href="https://logicoverflow.tech/sans-new2cyber/">Sans New2Cyber</a></li>
 <li>DEFCON Red Team Village 2020</li>
 </ul>
 
@@ -23,9 +23,7 @@ permalink: /categories.html
 
 <li>Bandit
 <ul>
-<li><a href="https://logicoverflow.github.io/over-the-wire-bandit1/">Bandit 1 - 10</a></li>
-</ul>
-
+<li><a href="https://logicoverflow.tech/over-the-wire-bandit1/">Bandit 1 - 10</a></li>
 </ul>
 
 
