@@ -3,7 +3,6 @@ layout: single
 title: "Trainer: Levels 0x01 - 0x09"
 header:
   overlay_image: cyber-newlocks.jpg
-  caption: "[__OverTheWire__](http://overthewire.org/wargames/bandit)"
 ---
 
 <p align="center"><img src="/images/sans-new2cyber-logo.png"></p>
