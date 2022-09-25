@@ -5,8 +5,6 @@ header:
   overlay_image: cyber-newlocks.jpg
 ---
 
-<p align="center"><img src="/images/sans-new2cyber-logo.png"></p>
-
 ## 0x13 Level
 10 (Linux)
 
