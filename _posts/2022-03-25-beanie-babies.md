@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Beanie Babies"
+title: "SANS New2Cyber - Beanie Babies"
 header:
   overlay_image: cyber-newlocks.jpg
 ---
@@ -19,7 +19,7 @@ author: [@pwnEIP](https://twitter.com/pwnEIP)
 ### Hints/Solution
 
 * SQLMap is a good tool to automate SQL injection!
-* Video walkthrough : https://www.youtube.com/watch?v=B59tT9ehUI4
+* Video walkthrough : <a href="https://www.youtube.com/watch?v=B59tT9ehUI4">https://www.youtube.com/watch?v=B59tT9ehUI4</a>
 
 ## 0x02 Beanie Baby Flagbearer
 100 (web)
@@ -33,7 +33,7 @@ author: [@pwnEIP](https://twitter.com/pwnEIP)
 ### Hints/Solution
 
 * Find the password.bak file and bruteforce the file. The creds will give access to user account on the box
-* Video walkthrough : https://www.youtube.com/watch?v=mdGOs473LcQ
+* Video walkthrough : <a href="https://www.youtube.com/watch?v=mdGOs473LcQ">https://www.youtube.com/watch?v=mdGOs473LcQ</a>
 
 ## 0x03 Beanie Baby Flagholder
 100 (web)
@@ -47,7 +47,7 @@ author: [@pwnEIP](https://twitter.com/pwnEIP)
 ### Hints/Solution
 
 * Find the password.bak file and bruteforce the file. The creds will give access to user account on the box. you can't drop into a shell but you can use: su username -c 'command here'
-* Video walkthrough : https://www.youtube.com/watch?v=mdGOs473LcQ
+* Video walkthrough : <a href="https://www.youtube.com/watch?v=mdGOs473LcQ">https://www.youtube.com/watch?v=mdGOs473LcQ</a>
 
 ## 0x04 Beanie Baby SQL DB
 100 (web)
@@ -61,7 +61,7 @@ author: [@pwnEIP](https://twitter.com/pwnEIP)
 ### Hints/Solution
 
 * Dump and grep flag pattern from beanies database.
-* Video walkthrough : https://www.youtube.com/watch?v=OMAM5zsHSn8
+* Video walkthrough : <a href="https://www.youtube.com/watch?v=OMAM5zsHSn8">https://www.youtube.com/watch?v=OMAM5zsHSn8</a>
 
 ## 0x05 Beanie Baby SQL DB 2
 150 (web)
@@ -75,4 +75,4 @@ author: [@pwnEIP](https://twitter.com/pwnEIP)
 ### Hints/Solution
 
 * Dump and grep flag format from beanies database.
-* Video walkthrough : https://www.youtube.com/watch?v=xQHUohVuCbM
+* Video walkthrough : <a href="https://www.youtube.com/watch?v=xQHUohVuCbM">https://www.youtube.com/watch?v=xQHUohVuCbM</a>

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Trainer: Levels 0x13 - 0x16"
+title: "SANS New2Cyber - Trainer: Levels 0x13 - 0x16"
 header:
   overlay_image: cyber-newlocks.jpg
 ---
