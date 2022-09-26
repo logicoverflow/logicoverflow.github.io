@@ -60,7 +60,7 @@ The members of the Order of the Temple, a religious and military group from the 
 
 Can you decrypt the message in this picture below?
 
-<p align="center"><img src="/images/templar_enc.png"></p>
+<p align="center"><img src="/images/templar_inc.png"></p>
 
 author: [@Rayhan0x01](https://twitter.com/rayhan0x01)
 
@@ -77,7 +77,7 @@ __Flag:__ ```CIPHEROFWARRIORMONKS```
 
 German abbot Johannes Trithemius was the author of the first printed book on cryptography but many thought his secret writings meant he was dabbling with the devil and he was forced to resign his post. One of his codes is known as the Ave Maria cipher. His book Polygraphiae consists of 384 columns of letters of the alphabet, each with a corresponding code word. We have collected a Page from this book published in 1518:
 
-<p align="center"><img src="/images/avemaria_table.png"></p>
+<p align="center"><img src="/images/avemaria_table.jpg"></p>
 
 Can you decrypt the message below?
 
