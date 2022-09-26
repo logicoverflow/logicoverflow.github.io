@@ -10,7 +10,7 @@ permalink: /categories.html
 <h2>Capture The Flag (CTF)</h2>
 <ul>
 <li><a href="https://logicoverflow.tech/2022-sans-new2cyber.html">Sans New2Cyber 2022</a></li>
-<li>DEFCON Red Team Village 2020</li>
+<li><a href="https://logicoverflow.tech/2020-defcon-rtv.html">DEFCON Red Team Village 2020</a></li>
 </ul>
 
 <h2>NSA Codebreaker Challenge</h2>

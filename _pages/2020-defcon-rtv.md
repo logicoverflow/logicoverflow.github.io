@@ -17,14 +17,14 @@ DEFCON is the largest hacker conference/convention in the world, bringing thousa
 
 ## Challenge & Write-Ups
 
-* <a href="https://logicoverflow.tech/2020-defcon-crypto1/">Task 1</a>
+* <a href="https://logicoverflow.tech/2020-defcon-crypto1/">Crypto, Ciphers, & Encodings 1</a>
 
-* <a href="https://logicoverflow.tech/2020-defcon-crypto2/">Task 1</a>
+* <a href="https://logicoverflow.tech/2020-defcon-crypto2/">Crypto, Ciphers, & Encodings 1</a>
 
-* <a href="https://logicoverflow.tech/2020-defcon-logs/">Task 1</a>
+* <a href="https://logicoverflow.tech/2020-defcon-logs/">Logs</a>
 
-* <a href="https://logicoverflow.tech/2020-defcon-osint1/">Task 1</a>
+* <a href="https://logicoverflow.tech/2020-defcon-osint1/">Open Source Intelligence 1</a>
 
-* <a href="https://logicoverflow.tech/2020-defcon-osint2/">Task 1</a>
+* <a href="https://logicoverflow.tech/2020-defcon-osint2/">Open Source Intelligence 2</a>
 
-* <a href="https://logicoverflow.tech/2020-defcon-tunneler/">Task 1</a>
+* <a href="https://logicoverflow.tech/2020-defcon-tunneler/">Tunneler</a>
