@@ -35,7 +35,7 @@ For this task, we’re asked to browse a given IP address. As the previous task 
 
 Reviewing this once more, it seems our objective is to forward a port or forward a tunnel to view a web server on an internal network. So what this means is that simply entering the IP address given into a browser won’t work as that address is an internal. For those who may not be quite familiar with networking or need a refresher, anytime you see an IP address starting with 10.x.x.x, it indicates it’s generally an internal Class A network.
 
-<p align="center"><img src="/images/TLR-Browsing-Websites.png-2"></p>
+<p align="center"><img src="/images/TLR-Browsing-Websites-2.png"></p>
 
 We’re going to use SSH local port forwarding to complete this task. The -L indicates that this is a local forward to be done on port 8888. The following IP address and it’s port is what we’re looking to forward to, in this case, the web server. The last portion is the bastion server which has network access to communicate with the targeted web server.
 
@@ -43,7 +43,7 @@ We’re going to use SSH local port forwarding to complete this task. The -L ind
 
 After running the command and logging in we’re going to shown the same screen as we had previously. You may think immediately, okay, this did not work… However, don’t jump to that thought. We established the connection needed so we can have the local port forwarding occur. Remember, this is a local port forwarding, involving our local host on the port 8888.
 
-<p align="center"><img src="/images/TLR-Browsing-Websites.png-3"></p>
+<p align="center"><img src="/images/TLR-Browsing-Websites-3.png"></p>
 
 So we head over to our browser, enter the local host, which is 127.0.0.1 along with the port we entered 8888. After submitting it, we’re taken to the page we our desired page, which is the web server and given our flag!
 
