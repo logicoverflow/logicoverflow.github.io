@@ -10,8 +10,7 @@ A colleague of mine informed me of this site and its various wargames it contain
 This post will contain the solutions for the first 10 levels of Bandit. If you're learning Linux through Bandit, I urge you to really try to solve each level on your own. Only and only if you have "Tried Harder" and you're still stuck, then check out the solution and learn.
 
 Let's get started!
-
-### Level 0:
+## Level 0
 
 The goal of this level is for you to log into the game using SSH. The host to which you need to connect is __bandit.labs.overthewire.org__, on port __2220__. The username is __bandit0__ and the password is __bandit0__. Once logged in, go to the Level 1 page to find out how to beat Level 1.
 
@@ -24,9 +23,9 @@ bandit0
 
 We've now obtained shell access to the server.
 
-__Flag:__ ssh bandit0@bandit.labs.overthewire.org -p 2220
+__Flag:__ ```ssh bandit0@bandit.labs.overthewire.org -p 2220```
 
-### Level 0 -> 1:
+## Level 0 -> 1
 
 The password for the next level is stored in a file called __readme__ located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
@@ -60,9 +59,9 @@ bandit1@bandit:~$ whoami
 bandit1
 ```
 
-__Flag:__ NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+__Flag:__ ```NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL```
 
-### Level 1 -> 2:
+## Level 1 -> 2
 
 The password for the next level is stored in a file called __-__ located in the __home__ directory
 
@@ -79,9 +78,9 @@ bandit1@bandit:~$ cat < -
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 ```
 
-__Flag:__ rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+__Flag:__ ```rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi```
 
-### Level 2 -> 3:
+## Level 2 -> 3
 
 The password for the next level is stored in a file called __spaces in this filename__ located in the home directory
 
@@ -98,9 +97,9 @@ bandit2@bandit:~$ cat spaces\ in\ this\ filename
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 ```
 
-__Flag:__ aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+__Flag:__ ```aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG```
 
-### Level 3 -> 4:
+## Level 3 -> 4
 
 The password for the next level is stored in a hidden file in the __inhere__ directory.
 
@@ -123,9 +122,9 @@ bandit3@bandit:~/inhere$ cat .hidden
 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 ```
 
-__Flag:__ 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+__Flag:__ ```2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe```
 
-### Level 4 - > 5:
+## Level 4 - > 5
 
 The password for the next level is stored in the only human-readable file in the __inhere__ directory. Tip: if your terminal is messed up, try the “reset” command.
 
@@ -138,9 +137,9 @@ bandit4@bandit:~/inhere$ cat < -file07
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 ```
 
-__Flag:__ lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+__Flag:__ ```lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR```
 
-### Level 5 -> 6:
+## Level 5 -> 6
 
 The password for the next level is stored in a file somewhere under the __inhere__ directory and has all of the following properties:
 <ul>
@@ -181,9 +180,9 @@ bandit5@bandit:~/inhere$ cat maybehere07/.file2
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 ```
 
-__Flag:__ P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+__Flag:__ ```P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU```
 
-### Level 6 -> 7:
+## Level 6 -> 7
 
 The password for the next level is stored __somewhere on the server__ and has all of the following properties:
 <ul>
@@ -200,9 +199,9 @@ bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 ```
 
-__Flag:__ z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+__Flag:__ ```z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S```
 
-### Level 7 -> 8:
+## Level 7 -> 8
 
 The password for the next level is stored in the file __data.txt__ next to the word __millionth__
 
@@ -222,9 +221,9 @@ bandit7@bandit:~$ cat data.txt | grep millionth
 millionth       TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 ```
 
-__Flag:__ TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+__Flag:__ ```TESKZC0XvTetK0S9xNwm25STk5iWrBvP```
 
-### Level 8 -> 9:
+## Level 8 -> 9
 
 The password for the next level is stored in the file __data.txt__ and is the only line of text that occurs only once
 
@@ -244,9 +243,9 @@ bandit8@bandit:~$ sort data.txt | uniq -c | grep "1 "
       1 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 ```
 
-__Flag:__ EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+__Flag:__ ```EN632PlfYiZbn3PhVK3XOGSlNInNE00t```
 
-### Level 9 -> 10:
+## Level 9 -> 10
 
 The password for the next level is stored in the file __data.txt__ in one of the few human-readable strings, beginning with several ‘=’ characters.
 
@@ -271,9 +270,9 @@ bu========== password
 ========== G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 ```
 
-__Flag:__ G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+__Flag:__ ```G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s```
 
-### Level 10 -> 11
+## Level 10 -> 11
 
 The password for the next level is stored in the file __data.txt__, which contains base64 encoded data
 
@@ -286,4 +285,4 @@ bandit10@bandit:~$ cat data.txt  | base64 -d
 The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 ```
 
-__Flag:__ 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+__Flag:__ ```6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM```
