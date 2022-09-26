@@ -4,7 +4,7 @@ author_profile: true
 title: NSA Code Breaker Challenge 2019
 header:
   overlay_image: cyber-newlocks.jpg
-permalink: /2019-nsa-codebreaker.html
+permalink: /2019-codebreaker.html
 ---
 
 <p align="center"><img src="/images/nsa-css-logo.png"></p>
