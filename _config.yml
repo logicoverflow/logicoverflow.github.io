@@ -15,6 +15,7 @@ url                      : "https://logicoverflow.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "logicoverflow/logicoverflow.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -27,7 +28,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : dark #"light" (default), "dark"
+    colorscheme          : #"light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : # "master", "gh-pages"
