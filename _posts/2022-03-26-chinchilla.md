@@ -12,7 +12,7 @@ header:
 
 Chinchilla Challenge: Cuzco’s Great Adventure
 
-<p align="center"><img src="/images/0x01.jpg" height="200"></p>
+<p align="center"><img src="/images/0x01.jpg" width="300"></p>
 
 Cuzco, the chinchilla, had always wanted to go on a grand adventure. She was boxed in, surrounded on all four sides by walls, but she was getting faster. If she could 10x (a term for upskilling a lot) her skills, continue her practice jumps and codebreaking, then maybe she could break through her walls, and get to that Parkour class she wanted to take.
 
@@ -218,7 +218,9 @@ __Flag:__ ```9691c69c33f444222facf8fad310aca4```
 
 Cuzco was aware that the file had information about Parkour that would help her learn even more, so she decided it was safe, downloaded it, and tried to open it. That’s when she learned the file had been encrypted. Can you help her crack the password?
 
-She had one additional piece of information, this MD5 Hash: _51F8571B1EC5D507670802B3A5F06B65_
+She had one additional piece of information, this MD5 Hash:
+
+_51F8571B1EC5D507670802B3A5F06B65_
 
 author: [@CarpeDiemT3ch](https://twitter.com/CarpeDiemT3ch)
 
@@ -308,11 +310,11 @@ __Flag:__ ```Parkour```
 
 Now that you’ve helped her open and view the file, Cuzco knows two things. One, the file creator should work on password complexity. Two, before visiting the website on the flyer, she should investigate it using some threat hunter sites. Investigate the site with the following tools:
 
-Use https://www.whois.com/ or the whois command on the command line
+Use <a href="https://www.whois.com/">https://www.whois.com/</a> or the whois command on the command line
 
-URLscanner https://urlscan.io/ make sure it is a private scan
+URLscanner <a href="https://urlscan.io/">https://urlscan.io/</a> make sure it is a private scan
 
-Pulsedive at https://pulsedive.com/ and complete a passive scan of the site
+Pulsedive at <a href="https://pulsedive.com/">https://pulsedive.com/</a> and complete a passive scan of the site
 
 Based on your research, what year was this site first registered?
 
@@ -326,17 +328,17 @@ Cuzco had traveled far, met new friends, worked on balance, gained new knowledge
 
 She decided to review a few resources to make her trip home a learning experience and have some balance too:
 
-https://www.sans.org/blog/dont-miss-these-top-rated-sans-summit-replays/
+<a href="https://www.sans.org/blog/dont-miss-these-top-rated-sans-summit-replays/">https://www.sans.org/blog/dont-miss-these-top-rated-sans-summit-replays/</a>
 
-https://www.sans.org/blog/visual-summary-of-sans-new-to-cyber-summit/
+<a href="https://www.sans.org/blog/visual-summary-of-sans-new-to-cyber-summit/">https://www.sans.org/blog/visual-summary-of-sans-new-to-cyber-summit/</a>
 
-https://wakelet.com/wake/ZoDim7iESNHwLFr4DJeOC
+<a href="https://wakelet.com/wake/ZoDim7iESNHwLFr4DJeOC">https://wakelet.com/wake/ZoDim7iESNHwLFr4DJeOC</a>
 
 And because balance:
 
-https://youtu.be/VZrDxD0Za9I?list=PLu4wnki9NI_8VmJ7Qz_byhKwCquXcy6u9
+<a href="https://youtu.be/VZrDxD0Za9I?list=PLu4wnki9NI_8VmJ7Qz_byhKwCquXcy6u9">https://youtu.be/VZrDxD0Za9I?list=PLu4wnki9NI_8VmJ7Qz_byhKwCquXcy6u9</a>
 
-https://youtu.be/f0RQ5C7g_tA?list=PLnzLfzo-SovQvT8zbcBdkeNkwZ38f2SAM
+<a href="https://youtu.be/f0RQ5C7g_tA?list=PLnzLfzo-SovQvT8zbcBdkeNkwZ38f2SAM">https://youtu.be/f0RQ5C7g_tA?list=PLnzLfzo-SovQvT8zbcBdkeNkwZ38f2SAM</a>
 
 She safely made it back to her 127.0.0.1, and once she arrived, she found that her home was more open than she remembered. There was more community surrounding it than she thought. She just had to look out the window and remember she’d had her adventure, there was help to be found, and she was part of this community - she belonged! Remember you belong here and are part of our community too.
 
