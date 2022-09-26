@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Logic Overflow"
-  avatar           : ""
+  avatar           : "/images/profile-image.png"
   bio              : "Cybersecurity Engineer, Security Researcher, & Educator"
   location         : "United States"
   email            :
