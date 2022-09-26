@@ -15,7 +15,7 @@ permalink: /categories.html
 
 <h2>NSA Codebreaker Challenge</h2>
 <ul>
-<li>2019</li>
+<li><a href="https://logicoverflow.tech/2019-codebreaker.html">2019 Challenge</a></li>
 </ul>
 
 <h2>OverTheWire</h2>
