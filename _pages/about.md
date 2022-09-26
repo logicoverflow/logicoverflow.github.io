@@ -9,14 +9,16 @@ permalink: /about.html
 
 ## logicoverflow@github.io:#$ whoami
 <br/><br/>
-My handle is Logic Overflow, I'm a Cybersecurity Engineer, Security Researcher, and Educator.
+Hey there,
 
-My main focus lies in the field of Offensive Security/Read Team, but I have years of experience in IT, Project Management, and programming.
+I'm Logic Overflow, I'm a Cybersecurity Engineer, Security Researcher, and Educator.
 
-These github pages will contain posts on my experience, research, CTFs, walkthroughs, challenges, tutorials, and more, in which I have participated in over the years.
+My primary focus lies in the field of Offensive Security/Read Team, but I have years of experience in IT, project management, and programming.
+
+These github pages will contain posts on my experience, research, CTFs, walkthroughs, challenges, tutorials, and more, which I have participated in or learned over the years.
 
 I hope you enjoy the content provided. If you have any questions or suggestions, please feel free to reach out to me.
 
-Best,
+All the Best,
 
 Logic

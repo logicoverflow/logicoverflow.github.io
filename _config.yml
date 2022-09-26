@@ -18,9 +18,9 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus"
+  provider               : 
   disqus:
-    shortname            : "logicoverflow"
+    shortname            : 
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -70,9 +70,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-85282217-1"
+    tracking_id          : 
 
 
 # Site Author
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "logicoverflow/"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
