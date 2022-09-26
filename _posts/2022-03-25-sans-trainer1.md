@@ -16,7 +16,7 @@ __trainer.threatsims.com__
 
 Note: This is not a web based link, it's an SSH host and you can connect to it via SSH protocol with tool such as PuTTY (google), or in linux use the ssh command.
 
-username: level0 password: level0
+*username:* level0 *password:* level0
 
 After logging in to level0 you will be looking for the password to level1.
 
