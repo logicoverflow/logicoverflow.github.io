@@ -19,8 +19,8 @@ While the challenge is intended for students, professors are encouraged to parti
 
 ## Challenges & Write Ups
 
-* <a href="https://logicoverflow.tech/codebreaker1.md/">Task 1</a>
+* <a href="https://logicoverflow.tech/2019-codebreaker1/">Task 1</a>
 
-* <a href="https://logicoverflow.tech/codebreaker2.md/">Task 2</a>
+* <a href="https://logicoverflow.tech/2019-codebreaker2/">Task 2</a>
 
-* <a href="https://logicoverflow.tech/codebreaker3.md/">Task 3</a>
+* <a href="https://logicoverflow.tech/2019-codebreaker3/">Task 3</a>
